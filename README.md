@@ -1,2 +1,2 @@
 # CHATBOT
-Restaurant chatbot in taking orders "in arabic language" // from IBM 
+Restaurant chatbot that taking orders "in arabic language" // from IBM 
